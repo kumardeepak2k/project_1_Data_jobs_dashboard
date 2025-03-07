@@ -1,10 +1,10 @@
 # Data Job Market Analysis
 
 ## Project Overview
-This project analyzes job openings in the data field (Data Analyst, Data Engineer, Machine Learning Engineer, etc.) across various job listing platforms such as LinkedIn, Glassdoor, and others. The aim is to identify hiring trends, skill requirements, salary insights, and geographical demand for data-related roles worldwide.
+This project analyzes job openings in the data field (Data Analyst, Data Engineer, Machine Learning Engineer, etc.) across various job listing platforms such as LinkedIn, Glassdoor, etc. The aim is to identify hiring trends, skill requirements, salary insights, and geographical demand for data-related roles worldwide.
 
 ## Problem Statement
-With the increasing demand for data professionals across industries, job seekers often struggle to identify the most valuable skills, competitive salaries, and job availability in different regions. Employers, on the other hand, need insights into hiring trends to refine their recruitment strategies. This project aims to bridge this gap by analyzing job postings to extract meaningful insights that benefit both job seekers and employers.
+With the increasing demand for data professionals across industries, job seekers often struggle to identify the most valuable skills, competitive salaries, and job availability in different regions. Employers, on the other hand, need insights into hiring trends to refine their recruitment strategies. This project aims to bridge this gap by analyzing job postings to extract meaningful insights that benefit job seekers and employers.
 
 ## Dataset
 The dataset includes:
@@ -34,14 +34,6 @@ The dataset includes:
 - **High demand for Data Engineers and Machine Learning Engineers** compared to Data Analysts.
 - **SQL, Python, and Cloud technologies** (AWS, Azure, GCP) are the most frequently mentioned skills.
 - **The USA, UK, and India** have the highest number of job openings.
-- **Remote jobs** have increased significantly post-2020.
-- **Glassdoor listings** tend to provide more salary information than LinkedIn.
-
-## How to Use This Project
-1. Open the Excel file containing the dataset.
-2. Use filters and pivot tables to explore job trends.
-3. Check the visualizations for key insights.
-4. Modify the dataset and run new analyses based on your requirements.
 
 ## Future Improvements
 - Automating data collection from job portals.
